@@ -37,6 +37,8 @@ Objetivo Especifico:
 # MARCO TEORICO:
 
 CAPITULO 9:
+![image](https://user-images.githubusercontent.com/105695077/177805385-cedb8bde-1ba0-4630-b8f0-643ddc152897.png)
+
 
 CAPITULO 10:
 
@@ -48,7 +50,7 @@ CAPITULO 10:
 
 # VIDEO:
 
-https://www.youtube.com/watch?v=TxSEMkU5CS8
+
 
 # CONCLUSIONES:
 . Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
