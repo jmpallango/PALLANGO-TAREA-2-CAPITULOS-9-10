@@ -173,18 +173,34 @@ CAPITULO 9:
 
 ![image](https://user-images.githubusercontent.com/105695077/177815362-a7b2beef-e814-470b-8707-e1a6c11f2d1f.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177819022-81f480a0-e6a3-46f9-a631-8af56fd88fed.png)
+![image](https://user-images.githubusercontent.com/105695077/177819039-9b278093-30ed-441a-8cab-e83cc8fa2396.png)
+![image](https://user-images.githubusercontent.com/105695077/177819072-c2842ef5-3651-4aea-a908-a08791b3c5fc.png)
+
 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29. 
 
 ![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177819121-e66d285f-c1f2-42c8-886c-f7750e783edb.png)
 
 22. Determine la corriente a través de cada resistor en la figura 9-29. 
 
 ![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177819182-2de3575e-0d75-4d60-8b5d-a4e9357e406b.png)
+![image](https://user-images.githubusercontent.com/105695077/177819241-bdacf75e-37a3-45fb-98dd-f4587f857d8d.png)
+![image](https://user-images.githubusercontent.com/105695077/177819250-62208c8b-5187-40ee-804d-7cc3a75c3425.png)
+![image](https://user-images.githubusercontent.com/105695077/177819262-cda9a15b-750e-4d1a-a492-ec7c802be2b3.png)
+
 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?
 
 ![image](https://user-images.githubusercontent.com/105695077/177815616-3da60699-aa93-4bf9-a910-f815ac9d29a9.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177819295-16553baa-1235-4bea-af80-9ab1ab8a1df5.png)
+![image](https://user-images.githubusercontent.com/105695077/177819317-4b953d06-3380-43c8-be33-9f67952d65b2.png)
+![image](https://user-images.githubusercontent.com/105695077/177819340-c4f3daa9-1c83-4d42-9780-b86b9b0ec91a.png)
+![image](https://user-images.githubusercontent.com/105695077/177819358-fe8822bb-6896-40f4-9bbc-05ca556241a2.png)
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
 con respecto a tierra. 
