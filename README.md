@@ -26,11 +26,11 @@ Jueves 7 de julio de 2022
 # OBJETIVOS:
 bjetivo General:
 
-• Comprender la manera de indentificar y analizar el esquema de un circuito ya sean en serie o paralelos, incluyendo el efecto de voltajes, localizacion de fallas en el circuito y los diferentes teoremas que son aplicadas en los capitulos 7 y 8.
+• Comprender la manera de realizar las ecuaciones simultaneas para los nodos, lazos y ramas analizando si estos se encunetran en serie o paralelo, al igual que debemos compender los conceptos de magnetismo y electromagnetismo presentados en los capitulos 9 y 10
 
 Objetivo Especifico:
 
-• Analizar el esquema de un circuito en paralelo o en serie, con su respectivo voltaje o carga y así identificar fallas del circuito expresado en el capitulo 7.
+• Analizar un circuito en paralelo o en serie, para encontrar 
 
 • comprender los diferentes teoremas del capitulo 8 que se aplican en un circuito y las caracteristicas de una fuente de corriente y voltaje. 
 
