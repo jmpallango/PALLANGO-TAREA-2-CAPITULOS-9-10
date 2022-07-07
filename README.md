@@ -295,7 +295,7 @@ de cd de salida a su pico (alcanza un máximo)?
 
 # VIDEO:
 
-
+https://youtu.be/XEdyRJp-0Ys
 
 # CONCLUSIONES:
 . Para un correcto manejo de las ecuaciones hay que entender como funciona las diferentes formulas y como leer el tipo de datos que utiliza para los calculos de los circuitos.
