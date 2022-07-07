@@ -207,14 +207,28 @@ con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/105695077/177815754-bfe1970c-6206-41ea-8f34-ac11215c8279.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177819679-2a611861-0aa0-437f-ae11-642df50c1d90.png)
+![image](https://user-images.githubusercontent.com/105695077/177819725-213a9fbe-7320-43e4-be2c-e4e271418692.png)
+
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
 voltajes de nodo. 
 
 ![image](https://user-images.githubusercontent.com/105695077/177815807-a5bc17e7-96c5-4c3d-b48c-2269f0841b77.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177819785-f17738f4-70d9-4b91-b8f4-86531c340c94.png)
+![image](https://user-images.githubusercontent.com/105695077/177819826-719034cc-166c-46b9-a5ab-7b2433bd7be7.png)
+![image](https://user-images.githubusercontent.com/105695077/177819859-eddf8ac4-76a5-495e-b6d2-3a584f64ac86.png)
+
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34
 
 ![image](https://user-images.githubusercontent.com/105695077/177815944-1602a0f9-838d-4fb1-a033-c968a60e12d7.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177819896-349476e6-6f2c-4694-a265-34a8c46e39c3.png)
+![image](https://user-images.githubusercontent.com/105695077/177819953-c4476e2a-fbc5-4255-b9cf-ddd9e67442f2.png)
+![image](https://user-images.githubusercontent.com/105695077/177819983-5f285e84-d540-4f13-81f6-591690282935.png)
+![image](https://user-images.githubusercontent.com/105695077/177820004-456abc69-2134-43ca-b33b-3fdf0d88c6c2.png)
+![image](https://user-images.githubusercontent.com/105695077/177820018-aa460b30-2acb-452c-8de3-eb17d6ed9a62.png)
+![image](https://user-images.githubusercontent.com/105695077/177820039-d66e2d78-2741-492c-8fcf-62ea47b278bb.png)
 
 CAPITULO 10:
 
