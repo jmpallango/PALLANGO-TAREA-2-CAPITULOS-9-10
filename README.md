@@ -118,8 +118,86 @@ CAPITULO 10:
 
 CAPITULO 9:
 
+2. Evalúe cada determinante:
+![image](https://user-images.githubusercontent.com/105695077/177814620-f8cef35c-5fb5-4c19-91a9-6afe02d62084.png)
+
+4. Evalúe cada uno de los determinantes:
+![image](https://user-images.githubusercontent.com/105695077/177814692-f5b31929-e996-42cd-a508-b59ce8995468.png)
+
+6. Determine I3 en el ejemplo 9-4. 
+
+*8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+![image](https://user-images.githubusercontent.com/105695077/177814982-7294f459-84d8-46c7-b69b-37e15afe349b.png)
+
+10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
+
+12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
+![image](https://user-images.githubusercontent.com/105695077/177815139-3c2cc27f-f497-404f-a9d6-a2d426572cc8.png)
+
+
+14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
+![image](https://user-images.githubusercontent.com/105695077/177815200-c900137e-01d5-43a6-9c05-27ae969e6734.png)
+
+16. Escriba el determinante característico para las ecuaciones:
+![image](https://user-images.githubusercontent.com/105695077/177815284-970b382a-cf32-48fb-9711-d6c17512e8ed.png)
+
+18. Determine las corrientes de rama en la figura 9-28. 
+![image](https://user-images.githubusercontent.com/105695077/177815362-a7b2beef-e814-470b-8707-e1a6c11f2d1f.png)
+
+20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29. 
+![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
+
+22. Determine la corriente a través de cada resistor en la figura 9-29. 
+![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
+
+24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
+es la corriente que circula a través de él?
+![image](https://user-images.githubusercontent.com/105695077/177815616-3da60699-aa93-4bf9-a910-f815ac9d29a9.png)
+
+26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
+con respecto a tierra. 
+![image](https://user-images.githubusercontent.com/105695077/177815754-bfe1970c-6206-41ea-8f34-ac11215c8279.png)
+
+28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
+voltajes de nodo. 
+![image](https://user-images.githubusercontent.com/105695077/177815807-a5bc17e7-96c5-4c3d-b48c-2269f0841b77.png)
+
+30. Determine el voltaje en los puntos A, B y C en la figura 9-34
+![image](https://user-images.githubusercontent.com/105695077/177815944-1602a0f9-838d-4fb1-a033-c968a60e12d7.png)
+
 CAPITULO 10:
 
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
+¿Cuál es la densidad de flujo?
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
+flujo en teslas. 
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08
+m2 si la permeabilidad absoluta es de 150 X 10^-7 Wb/At.m
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
+el interruptor 1 (SW1) se cierra
+
+14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+16. En la figura 10-44, hay 500 vueltas. Determine 
+![image](https://user-images.githubusercontent.com/105695077/177816760-a609f808-cb86-4400-8bdd-0f47bff95695.png)
+
+18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de
+cambio del flujo magnético se duplica?
+
+20. Un campo magnético cambia a razón de 3500 x 10^3 Wb/s. ¿Cuánto voltaje se induce en una bobina
+de 500 vueltas colocada en el campo magnético?
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+* 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje
+de cd de salida a su pico (alcanza un máximo)?
 # VIDEO:
 
 
