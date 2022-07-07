@@ -119,50 +119,75 @@ CAPITULO 10:
 CAPITULO 9:
 
 2. Evalúe cada determinante:
+
 ![image](https://user-images.githubusercontent.com/105695077/177814620-f8cef35c-5fb5-4c19-91a9-6afe02d62084.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177817607-36b184a2-5811-4049-8c7e-51cea19b6d33.png)
+
 4. Evalúe cada uno de los determinantes:
+
 ![image](https://user-images.githubusercontent.com/105695077/177814692-f5b31929-e996-42cd-a508-b59ce8995468.png)
 
-6. Determine I3 en el ejemplo 9-4. 
+![image](https://user-images.githubusercontent.com/105695077/177817694-03c2d979-1c8c-474e-86fd-f5ac86dd964d.png)
+
+6. Determine I3 en el ejemplo 9-4.
+
+![image](https://user-images.githubusercontent.com/105695077/177817737-3f27dfc9-df03-4063-9beb-916047e283b0.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177817765-7dc0cf1d-a4f7-4259-8722-f00f18155ec0.png)
 
 *8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+
 ![image](https://user-images.githubusercontent.com/105695077/177814982-7294f459-84d8-46c7-b69b-37e15afe349b.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177817841-02fb8709-3550-4a98-a701-484ba31e1327.png)
+![image](https://user-images.githubusercontent.com/105695077/177817857-5bac3889-88fa-49fa-bd4f-439707f59397.png)
+![image](https://user-images.githubusercontent.com/105695077/177817882-ac2fe7c9-d79e-404b-9281-9ae208d15178.png)
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
+
 ![image](https://user-images.githubusercontent.com/105695077/177815139-3c2cc27f-f497-404f-a9d6-a2d426572cc8.png)
 
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
+
 ![image](https://user-images.githubusercontent.com/105695077/177815200-c900137e-01d5-43a6-9c05-27ae969e6734.png)
 
 16. Escriba el determinante característico para las ecuaciones:
+
 ![image](https://user-images.githubusercontent.com/105695077/177815284-970b382a-cf32-48fb-9711-d6c17512e8ed.png)
 
 18. Determine las corrientes de rama en la figura 9-28. 
+
 ![image](https://user-images.githubusercontent.com/105695077/177815362-a7b2beef-e814-470b-8707-e1a6c11f2d1f.png)
 
 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29. 
+
 ![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
 
 22. Determine la corriente a través de cada resistor en la figura 9-29. 
+
 ![image](https://user-images.githubusercontent.com/105695077/177815479-a7336a0a-f769-4471-b488-8af6b1b084b9.png)
 
 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?
+
 ![image](https://user-images.githubusercontent.com/105695077/177815616-3da60699-aa93-4bf9-a910-f815ac9d29a9.png)
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
 con respecto a tierra. 
+
 ![image](https://user-images.githubusercontent.com/105695077/177815754-bfe1970c-6206-41ea-8f34-ac11215c8279.png)
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
 voltajes de nodo. 
+
 ![image](https://user-images.githubusercontent.com/105695077/177815807-a5bc17e7-96c5-4c3d-b48c-2269f0841b77.png)
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34
+
 ![image](https://user-images.githubusercontent.com/105695077/177815944-1602a0f9-838d-4fb1-a033-c968a60e12d7.png)
 
 CAPITULO 10:
