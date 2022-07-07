@@ -298,9 +298,9 @@ de cd de salida a su pico (alcanza un máximo)?
 
 
 # CONCLUSIONES:
-. Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
+. Para un correcto manejo de las ecuaciones hay que entender como funciona las diferentes formulas y como leer el tipo de datos que utiliza para los calculos de los circuitos.
 
-. Tanto las leyes como los circuitos nos ayuda a entender las caracteristicas que maneja las corrientes y como estos pueden ser aprovechados, conociendo las diferentes formas de leer estos datos y como calcularlos.
+. Tanto el magnetismo y electromagnetismo manejado por los diferentes equipos no ayuda a entender que estos tienen efectos diferentes ante materiales y una fuerza electromagentica utilizada para diferentes aparatos como altavoces, motores, engranes, etc.
 
 # BIBLIOGRAFÍA:
 
