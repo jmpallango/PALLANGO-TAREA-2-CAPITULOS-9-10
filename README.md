@@ -146,18 +146,28 @@ CAPITULO 9:
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
+![image](https://user-images.githubusercontent.com/105695077/177818132-43ac758f-02f3-456c-b1c6-374b6815203d.png)
+
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
 ![image](https://user-images.githubusercontent.com/105695077/177815139-3c2cc27f-f497-404f-a9d6-a2d426572cc8.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177818269-2da1f315-baca-4b34-bc7e-f7671fb0696c.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177818338-f0aef539-6c83-4ac5-8a4c-95d7433e8da0.png)
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
 ![image](https://user-images.githubusercontent.com/105695077/177815200-c900137e-01d5-43a6-9c05-27ae969e6734.png)
 
+![image](https://user-images.githubusercontent.com/105695077/177818406-e4b2a326-b15b-4da7-a561-02fdff554cee.png)
+![image](https://user-images.githubusercontent.com/105695077/177818490-4d7c0b26-6868-466d-b8bd-58d81eb55b2f.png)
+
 16. Escriba el determinante característico para las ecuaciones:
 
 ![image](https://user-images.githubusercontent.com/105695077/177815284-970b382a-cf32-48fb-9711-d6c17512e8ed.png)
+
+![image](https://user-images.githubusercontent.com/105695077/177818538-d5f356a1-dbe7-443e-959d-e9e754b69ee8.png)
 
 18. Determine las corrientes de rama en la figura 9-28. 
 
