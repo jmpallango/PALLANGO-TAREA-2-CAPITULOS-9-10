@@ -30,9 +30,9 @@ bjetivo General:
 
 Objetivo Especifico:
 
-• Analizar un circuito en paralelo o en serie, para encontrar 
+• Analizar un circuito en paralelo o en serie, para realizar y encontrar las ecuaciones simultaneas para los nodos, lazos y ramas del circuitopresentados en el capitulo 9.
 
-• comprender los diferentes teoremas del capitulo 8 que se aplican en un circuito y las caracteristicas de una fuente de corriente y voltaje. 
+• Comprender los conceptos de magnetismo y electromagnetismo del capitulo 10. 
 
 # MARCO TEORICO:
 
